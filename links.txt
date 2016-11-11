@@ -3,9 +3,7 @@
 <div class="show-item" data-url="[1988 - 8 - 11] Skate King, Kent, WA, USA.html"><div class="show-item__title">[1988 - 8 - 11] Skate King, Kent, WA, USA</div><div class="show-item__content"></div></div>
 <div class="show-item" data-url="[1989 - 6 - 10] San Diego, CA, USA.html"><div class="show-item__title">[1989 - 6 - 10] San Diego, CA, USA</div><div class="show-item__content"></div></div>
 <div class="show-item" data-url="[1989 - 9 - 3] Bumbershoot Festival, Seattle, WA, USA.html"><div class="show-item__title">[1989 - 9 - 3] Bumbershoot Festival, Seattle, WA, USA</div><div class="show-item__content"></div></div>
-<div class="show-item" data-url="[1990 - 10 - 22] Off Ramp Cafè, Seattle, WA, USA
-World Music Theater, Tinley Park, IL, USA.html"><div class="show-item__title">[1990 - 10 - 22] Off Ramp Cafè, Seattle, WA, USA
-World Music Theater, Tinley Park, IL, USA</div><div class="show-item__content"></div></div>
+<div class="show-item" data-url="[1990 - 10 - 22] Off Ramp Cafe, Seattle, WA, USA?World Music Theater, Tinley Park, IL, USA.html"><div class="show-item__title">[1990 - 10 - 22] Off Ramp Cafe, Seattle, WA, USA?World Music Theater, Tinley Park, IL, USA</div><div class="show-item__content"></div></div>
 <div class="show-item" data-url="[1990 - 11 - 13] Off Ramp Cafe, Seattle, WA, USA.html"><div class="show-item__title">[1990 - 11 - 13] Off Ramp Cafe, Seattle, WA, USA</div><div class="show-item__content"></div></div>
 <div class="show-item" data-url="[1990 - 2 - 11] Bacchanal, San Diego, CA, USA.html"><div class="show-item__title">[1990 - 2 - 11] Bacchanal, San Diego, CA, USA</div><div class="show-item__content"></div></div>
 <div class="show-item" data-url="[1991 - 11 - 14] Tower Records, Yonkers, NY, USA.html"><div class="show-item__title">[1991 - 11 - 14] Tower Records, Yonkers, NY, USA</div><div class="show-item__content"></div></div>
@@ -27,8 +25,8 @@ World Music Theater, Tinley Park, IL, USA</div><div class="show-item__content"><
 <div class="show-item" data-url="[1992 - 3 - 28] Cabaret Metro, Chicago, IL, USA.html"><div class="show-item__title">[1992 - 3 - 28] Cabaret Metro, Chicago, IL, USA</div><div class="show-item__content"></div></div>
 <div class="show-item" data-url="[1992 - 3 - 2] Paard Van Troje, Den Haag, Netherlands.html"><div class="show-item__title">[1992 - 3 - 2] Paard Van Troje, Den Haag, Netherlands</div><div class="show-item__content"></div></div>
 <div class="show-item" data-url="[1992 - 3 - 4] Tivoli, Utrecht, Netherlands
-(and bonus."><div class="show-item__title">[1992 - 3 - 4] Tivoli, Utrecht, Netherlands
-(and bonus</div><div class="show-item__content"></div></div>
+(and bonus...).html"><div class="show-item__title">[1992 - 3 - 4] Tivoli, Utrecht, Netherlands
+(and bonus...)</div><div class="show-item__content"></div></div>
 <div class="show-item" data-url="[1992 - 3 - 4] Tivoli, Utrecht, Netherlands.html"><div class="show-item__title">[1992 - 3 - 4] Tivoli, Utrecht, Netherlands</div><div class="show-item__content"></div></div>
 <div class="show-item" data-url="[1992 - 3 - 6] Nighttown, Rotterdam, Netherlands.html"><div class="show-item__title">[1992 - 3 - 6] Nighttown, Rotterdam, Netherlands</div><div class="show-item__content"></div></div>
 <div class="show-item" data-url="[1992 - 4 - 10] Trocadero Club, Philadelphia, PA, USA.html"><div class="show-item__title">[1992 - 4 - 10] Trocadero Club, Philadelphia, PA, USA</div><div class="show-item__content"></div></div>
@@ -135,7 +133,7 @@ Stadio Flaminio, Roma, Italy</div><div class="show-item__content"></div></div>
 <div class="show-item" data-url="[1997 - 11 - 15] Alameda County Stadium, Oakland, CA, USA.html"><div class="show-item__title">[1997 - 11 - 15] Alameda County Stadium, Oakland, CA, USA</div><div class="show-item__content"></div></div>
 <div class="show-item" data-url="[1997 - 11 - 18] Alameda County Stadium, Oakland, CA, USA.html"><div class="show-item__title">[1997 - 11 - 18] Alameda County Stadium, Oakland, CA, USA</div><div class="show-item__content"></div></div>
 <div class="show-item" data-url="[1997 - 7 - 28] Aarons Records, Hollywood, CA, USA.html"><div class="show-item__title">[1997 - 7 - 28] Aarons Records, Hollywood, CA, USA</div><div class="show-item__content"></div></div>
-<div class="show-item" data-url="[1998 - 2 - 20] Alexander M. Baldwin Amphitheatre, Maui, HI, USA"><div class="show-item__title">[1998 - 2 - 20] Alexander M</div><div class="show-item__content"></div></div>
+<div class="show-item" data-url="[1998 - 2 - 20] Alexander M. Baldwin Amphitheatre, Maui, HI, USA.html"><div class="show-item__title">[1998 - 2 - 20] Alexander M. Baldwin Amphitheatre, Maui, HI, USA</div><div class="show-item__content"></div></div>
 <div class="show-item" data-url="[1998 - 3 - 20] Perth Entertainment Centre, Perth, Australia.html"><div class="show-item__title">[1998 - 3 - 20] Perth Entertainment Centre, Perth, Australia</div><div class="show-item__content"></div></div>
 <div class="show-item" data-url="[1998 - 3 - 29] Shrine Auditorium, Los Angeles, LA, USA.html"><div class="show-item__title">[1998 - 3 - 29] Shrine Auditorium, Los Angeles, LA, USA</div><div class="show-item__content"></div></div>
 <div class="show-item" data-url="[1998 - 6 - 14] RFK Stadium, Washington, DC, USA.html"><div class="show-item__title">[1998 - 6 - 14] RFK Stadium, Washington, DC, USA</div><div class="show-item__content"></div></div>
@@ -170,7 +168,7 @@ Stadio Flaminio, Roma, Italy</div><div class="show-item__content"></div></div>
 <div class="show-item" data-url="[2000 - 10 - 27] Selland Arena, Fresno, CA, USA.html"><div class="show-item__title">[2000 - 10 - 27] Selland Arena, Fresno, CA, USA</div><div class="show-item__content"></div></div>
 <div class="show-item" data-url="[2000 - 10 - 5] Air Canada Centre, Toronto, Canada.html"><div class="show-item__title">[2000 - 10 - 5] Air Canada Centre, Toronto, Canada</div><div class="show-item__content"></div></div>
 <div class="show-item" data-url="[2000 - 11 - 6] Key Arena, Seattle, WA, USA.html"><div class="show-item__title">[2000 - 11 - 6] Key Arena, Seattle, WA, USA</div><div class="show-item__content"></div></div>
-<div class="show-item" data-url="[2000 - 5 - 25] Palau St. Jordi, Barcelona, Spain"><div class="show-item__title">[2000 - 5 - 25] Palau St</div><div class="show-item__content"></div></div>
+<div class="show-item" data-url="[2000 - 5 - 25] Palau St. Jordi, Barcelona, Spain.html"><div class="show-item__title">[2000 - 5 - 25] Palau St. Jordi, Barcelona, Spain</div><div class="show-item__content"></div></div>
 <div class="show-item" data-url="[2000 - 5 - 26] Anoeta Velodrome, San Sebastian, Spain.html"><div class="show-item__title">[2000 - 5 - 26] Anoeta Velodrome, San Sebastian, Spain</div><div class="show-item__content"></div></div>
 <div class="show-item" data-url="[2000 - 5 - 30] Wembley Arena, London, England.html"><div class="show-item__title">[2000 - 5 - 30] Wembley Arena, London, England</div><div class="show-item__content"></div></div>
 <div class="show-item" data-url="[2000 - 6 - 11] Rock Im Park Festival, Nuernberg, Germany
@@ -214,7 +212,7 @@ Rock Im Park Festival, Nuernberg, Germany</div><div class="show-item__content"><
 <div class="show-item" data-url="[2003 - 4 - 11] Sound Advice Amphitheater, West Palm Beach, FL, USA.html"><div class="show-item__title">[2003 - 4 - 11] Sound Advice Amphitheater, West Palm Beach, FL, USA</div><div class="show-item__content"></div></div>
 <div class="show-item" data-url="[2003 - 4 - 11] Sound Advice Amphitheatre, West Palm Beach, FL, USA.html"><div class="show-item__title">[2003 - 4 - 11] Sound Advice Amphitheatre, West Palm Beach, FL, USA</div><div class="show-item__content"></div></div>
 <div class="show-item" data-url="[2003 - 4 - 12] House Of Blues, Orlando, FL, USA.html"><div class="show-item__title">[2003 - 4 - 12] House Of Blues, Orlando, FL, USA</div><div class="show-item__content"></div></div>
-<div class="show-item" data-url="[2003 - 4 - 13] St. Pete Times Forum, Tampa, FL, USA"><div class="show-item__title">[2003 - 4 - 13] St</div><div class="show-item__content"></div></div>
+<div class="show-item" data-url="[2003 - 4 - 13] St. Pete Times Forum, Tampa, FL, USA.html"><div class="show-item__title">[2003 - 4 - 13] St. Pete Times Forum, Tampa, FL, USA</div><div class="show-item__content"></div></div>
 <div class="show-item" data-url="[2003 - 4 - 28] First Union Spectrum Arena, Philadelphia, PA, USA.html"><div class="show-item__title">[2003 - 4 - 28] First Union Spectrum Arena, Philadelphia, PA, USA</div><div class="show-item__content"></div></div>
 <div class="show-item" data-url="[2003 - 4 - 29] Pepsi Arena, Albany, NY, USA.html"><div class="show-item__title">[2003 - 4 - 29] Pepsi Arena, Albany, NY, USA</div><div class="show-item__content"></div></div>
 <div class="show-item" data-url="[2003 - 4 - 30] Nassau Coliseum, Uniondale, NY, USA.html"><div class="show-item__title">[2003 - 4 - 30] Nassau Coliseum, Uniondale, NY, USA</div><div class="show-item__content"></div></div>
@@ -286,7 +284,7 @@ MCI Center, Washington, DC, USA</div><div class="show-item__content"></div></div
 <div class="show-item" data-url="[2006 - 6 - 1] Continental Airlines Arena, East Rutherford, NJ, USA.html"><div class="show-item__title">[2006 - 6 - 1] Continental Airlines Arena, East Rutherford, NJ, USA</div><div class="show-item__content"></div></div>
 <div class="show-item" data-url="[2006 - 6 - 23] Mellon Arena, Pittsburgh, PA, USA.html"><div class="show-item__title">[2006 - 6 - 23] Mellon Arena, Pittsburgh, PA, USA</div><div class="show-item__content"></div></div>
 <div class="show-item" data-url="[2006 - 6 - 24] US Bank Arena, Cincinnati, OH, USA.html"><div class="show-item__title">[2006 - 6 - 24] US Bank Arena, Cincinnati, OH, USA</div><div class="show-item__content"></div></div>
-<div class="show-item" data-url="[2006 - 6 - 27] Xcel Energy Center, St. Paul, MI, USA"><div class="show-item__title">[2006 - 6 - 27] Xcel Energy Center, St</div><div class="show-item__content"></div></div>
+<div class="show-item" data-url="[2006 - 6 - 27] Xcel Energy Center, St. Paul, MI, USA.html"><div class="show-item__title">[2006 - 6 - 27] Xcel Energy Center, St. Paul, MI, USA</div><div class="show-item__content"></div></div>
 <div class="show-item" data-url="[2006 - 6 - 3] Continental Airlines Arena, East Rutherford, NJ, USA.html"><div class="show-item__title">[2006 - 6 - 3] Continental Airlines Arena, East Rutherford, NJ, USA</div><div class="show-item__content"></div></div>
 <div class="show-item" data-url="[2006 - 7 - 15] Bill Graham Civic Auditorium, San Francisco, CA, USA.html"><div class="show-item__title">[2006 - 7 - 15] Bill Graham Civic Auditorium, San Francisco, CA, USA</div><div class="show-item__content"></div></div>
 <div class="show-item" data-url="[2006 - 7 - 16] Bill Graham Civic Auditorium, San Francisco, CA, USA.html"><div class="show-item__title">[2006 - 7 - 16] Bill Graham Civic Auditorium, San Francisco, CA, USA</div><div class="show-item__content"></div></div>
@@ -370,7 +368,7 @@ MCI Center, Washington, DC, USA</div><div class="show-item__content"></div></div
 <div class="show-item" data-url="[2010 - 5 - 20] Madison Square Garden, New York, NY, USA.html"><div class="show-item__title">[2010 - 5 - 20] Madison Square Garden, New York, NY, USA</div><div class="show-item__content"></div></div>
 <div class="show-item" data-url="[2010 - 5 - 21] Madison Square Garden, New York, NY, USA.html"><div class="show-item__title">[2010 - 5 - 21] Madison Square Garden, New York, NY, USA</div><div class="show-item__content"></div></div>
 <div class="show-item" data-url="[2010 - 5 - 29] Gorge Amphitheater, George, WA, USA.html"><div class="show-item__title">[2010 - 5 - 29] Gorge Amphitheater, George, WA, USA</div><div class="show-item__content"></div></div>
-<div class="show-item" data-url="[2010 - 5 - 4] Scottrade Center, St. Louis, MO, USA"><div class="show-item__title">[2010 - 5 - 4] Scottrade Center, St</div><div class="show-item__content"></div></div>
+<div class="show-item" data-url="[2010 - 5 - 4] Scottrade Center, St. Louis, MO, USA.html"><div class="show-item__title">[2010 - 5 - 4] Scottrade Center, St. Louis, MO, USA</div><div class="show-item__content"></div></div>
 <div class="show-item" data-url="[2010 - 5 - 6] Nationwide Arena, Columbus, OH, USA.html"><div class="show-item__title">[2010 - 5 - 6] Nationwide Arena, Columbus, OH, USA</div><div class="show-item__content"></div></div>
 <div class="show-item" data-url="[2010 - 5 - 7] Verizon Amphitheater, Noblesville, IN, USA.html"><div class="show-item__title">[2010 - 5 - 7] Verizon Amphitheater, Noblesville, IN, USA</div><div class="show-item__content"></div></div>
 <div class="show-item" data-url="[2010 - 6 - 16] High Dive, Seattle, WA, USA.html"><div class="show-item__title">[2010 - 6 - 16] High Dive, Seattle, WA, USA</div><div class="show-item__content"></div></div>
@@ -424,7 +422,7 @@ Philadelphia, PA, USA</div><div class="show-item__content"></div></div>
 <div class="show-item" data-url="[2013 - 10 - 29] John Paul Jones Arena, Charlottesville, VA, USA.html"><div class="show-item__title">[2013 - 10 - 29] John Paul Jones Arena, Charlottesville, VA, USA</div><div class="show-item__content"></div></div>
 <div class="show-item" data-url="[2013 - 11 - 15] American Airlines Center, Dallas, TX, USA.html"><div class="show-item__title">[2013 - 11 - 15] American Airlines Center, Dallas, TX, USA</div><div class="show-item__content"></div></div>
 <div class="show-item" data-url="[2013 - 11 - 16] Chesapeake Energy Arena, Oklahoma City, OK, USA.html"><div class="show-item__title">[2013 - 11 - 16] Chesapeake Energy Arena, Oklahoma City, OK, USA</div><div class="show-item__content"></div></div>
-<div class="show-item" data-url="[2013 - 11 - 19] Jobing.com Arena, Phoenix, AZ, USA"><div class="show-item__title">[2013 - 11 - 19] Jobing</div><div class="show-item__content"></div></div>
+<div class="show-item" data-url="[2013 - 11 - 19] Jobing.com Arena, Phoenix, AZ, USA.html"><div class="show-item__title">[2013 - 11 - 19] Jobing.com Arena, Phoenix, AZ, USA</div><div class="show-item__content"></div></div>
 <div class="show-item" data-url="[2013 - 11 - 1] City Park, New Orleans, LA, USA.html"><div class="show-item__title">[2013 - 11 - 1] City Park, New Orleans, LA, USA</div><div class="show-item__content"></div></div>
 <div class="show-item" data-url="[2013 - 11 - 21] Viejas Arena, San Diego, CA, USA.html"><div class="show-item__title">[2013 - 11 - 21] Viejas Arena, San Diego, CA, USA</div><div class="show-item__content"></div></div>
 <div class="show-item" data-url="[2013 - 11 - 23] Sports Arena, Los Angeles, CA, USA.html"><div class="show-item__title">[2013 - 11 - 23] Sports Arena, Los Angeles, CA, USA</div><div class="show-item__content"></div></div>
@@ -439,7 +437,7 @@ Philadelphia, PA, USA</div><div class="show-item__content"></div></div>
 <div class="show-item" data-url="[2013 - 7 - 19] Wrigley Field, Chicago, IL, USA.html"><div class="show-item__title">[2013 - 7 - 19] Wrigley Field, Chicago, IL, USA</div><div class="show-item__content"></div></div>
 <div class="show-item" data-url="[2014 - 10 - 16] Joe Louis Arena, Detroit, MI, USA.html"><div class="show-item__title">[2014 - 10 - 16] Joe Louis Arena, Detroit, MI, USA</div><div class="show-item__content"></div></div>
 <div class="show-item" data-url="[2014 - 10 - 17] iWireless Center, Moline, IL, USA.html"><div class="show-item__title">[2014 - 10 - 17] iWireless Center, Moline, IL, USA</div><div class="show-item__content"></div></div>
-<div class="show-item" data-url="[2014 - 10 - 19] XCEL Energy Center, St. Paul, MN, USA"><div class="show-item__title">[2014 - 10 - 19] XCEL Energy Center, St</div><div class="show-item__content"></div></div>
+<div class="show-item" data-url="[2014 - 10 - 19] XCEL Energy Center, St. Paul, MN, USA.html"><div class="show-item__title">[2014 - 10 - 19] XCEL Energy Center, St. Paul, MN, USA</div><div class="show-item__content"></div></div>
 <div class="show-item" data-url="[2014 - 10 - 1] US Bank Arena, Cincinnati, OH, USA.html"><div class="show-item__title">[2014 - 10 - 1] US Bank Arena, Cincinnati, OH, USA</div><div class="show-item__content"></div></div>
 <div class="show-item" data-url="[2014 - 10 - 20] BMO Harris Bradley Center, Milwaukee, WI, USA.html"><div class="show-item__title">[2014 - 10 - 20] BMO Harris Bradley Center, Milwaukee, WI, USA</div><div class="show-item__content"></div></div>
 <div class="show-item" data-url="[2014 - 10 - 25] Shoreline Amphitheatre, Mountain View, CA, USA.html"><div class="show-item__title">[2014 - 10 - 25] Shoreline Amphitheatre, Mountain View, CA, USA</div><div class="show-item__content"></div></div>
