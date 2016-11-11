@@ -1,16 +1,18 @@
 {
-  "name": "jr-backup",
+  "name": "jam-river",
   "version": "1.0.0",
-  "description": "",
+  "description": "Jam-River website backup",
   "main": "app.js",
   "dependencies": {
     "nightmare": "^2.8.1",
     "vo": "^4.0.2"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "stylus": "^0.54.5"
+  },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "watch": "stylus -w ./stylus -o ./assets/css/"
   },
   "author": "",
-  "license": "ISC"
+  "license": "MIT"
 }

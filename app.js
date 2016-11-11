@@ -19,10 +19,10 @@ vo(run)((err, result) => {
 function *run() {
   var nightmare = Nightmare()
 
-  for (var i = 1080; i < 1081; i++) {
+  for (var i = 0; i < 567; i++) {
     console.log(`Buscando: ${i}`)
     yield nightmare
-      .goto('http://www.jam-river.com/pearl-jam/en/audio/full-list.html')
+      .goto('http://www.jam-river.com/pearl-jam/en/video/full-list.html')
       .click(`#box-table-a tr:nth-child(${i + 1}) td:first-child a`)
       .wait('.componentheading')
       .evaluate(() => {
@@ -33,7 +33,7 @@ function *run() {
       })
       .then(result => {
         console.log(`Salvando: ${result.title}`)
-        fs.writeFileSync(`./audio/000${i + 1}_${result.title}.html`, result.content)
+        fs.writeFileSync(`./video/000${i + 1}_${result.title}.html`, result.content)
       })
       .catch(error => {
         console.error('Search failed:', error)
